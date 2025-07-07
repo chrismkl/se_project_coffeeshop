@@ -132,6 +132,7 @@
   font-size: 20px;
   line-height: 30px;
   list-style-type: none;
+  border: 0;
 }
 
 .recipes__video-caption {

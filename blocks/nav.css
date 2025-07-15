@@ -30,6 +30,7 @@
   cursor: pointer;
 }
 
-.nav__links:hover {
+.nav__link:hover {
+  /*sorry i just figured out my mistake.*/
   opacity: 0.5;
 }
